@@ -1,3 +1,2 @@
-# Image Processing using OpenCV - 
-## By Shailendra Tiwari
-## Associate Professor
+**Image Processing using OpenCV**
+By Shailendra Tiwari, Associate Professor
